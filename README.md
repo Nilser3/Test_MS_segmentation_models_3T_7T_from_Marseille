@@ -11,6 +11,13 @@ preprocessing pipeline: https://github.com/ivadomed/model_seg_ms_mp2rage/issues/
  - [x] 3T MP2RAGE
 
 Related in https://github.com/ivadomed/model_seg_ms_mp2rage/issues/63#issuecomment-1568903640
+
+Continuous Dice Coefficient for "soft masks" based on this [implementation](https://github.com/rubyshamir/cDC/blob/main/continuous_Dice_coefficient.py) and the Classic Dice between the GT and binarized masks (thresholding  at 1/5 = 0.2) because we have 5 segmentation models. 
+
+![image](https://github.com/ivadomed/model_seg_ms_mp2rage/assets/77469192/5958a6ea-bec9-4dc1-80d0-90db7e6c5fab)
+
+There are 2 empy masks from GT (subject 3 and 4)
+
 ![UNI_cor](https://github.com/Nilser3/Test_MS_segmentation_models_3T_7T_from_Marseille/assets/77469192/cb01b93f-8d40-42f2-9e40-5dcdb7263d92)
 
 ## 7T MP2RAGE
