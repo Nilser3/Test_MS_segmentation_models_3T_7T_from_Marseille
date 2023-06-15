@@ -15,5 +15,8 @@ Related in https://github.com/ivadomed/model_seg_ms_mp2rage/issues/63#issuecomme
 
 ## 7T MP2RAGE
 - [ ] isotropic images
+![7T_iso](https://github.com/Nilser3/Test_MS_segmentation_models_3T_7T_from_Marseille/assets/77469192/eb35960f-c386-4ed1-a209-cc020922da46)
+
+
 
 - [ ] anisotropic images
