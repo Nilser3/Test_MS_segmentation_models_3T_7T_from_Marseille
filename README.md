@@ -31,3 +31,5 @@ There are 2 empy masks from GT (subject 3 and 4)
 *subject with 3 lesions, 2 were segmented, one was not detected*
 ![image](https://github.com/Nilser3/Test_MS_segmentation_models_3T_7T_from_Marseille/assets/77469192/0a5fbc41-c7e5-4a7f-a749-bedd765b7efa)
 
+## Model CanProCo (based on STIR/PSIR)
+
