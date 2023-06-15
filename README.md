@@ -5,7 +5,7 @@ Repository to test MS lesion segmentation models in 3T and 7T MP2RAGE images fro
 
 release: [r20230210](https://github.com/ivadomed/model_seg_ms_mp2rage/releases/tag/r20230210) 
 
-preprocessing pipeline: https://github.com/ivadomed/model_seg_ms_mp2rage/issues/63#issue-1562548573 
+Based on script: https://github.com/ivadomed/model_seg_ms_mp2rage/issues/63#issue-1562548573 
 
 
  - [x] 3T MP2RAGE
