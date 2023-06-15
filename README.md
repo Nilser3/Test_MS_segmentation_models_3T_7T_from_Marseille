@@ -1,5 +1,5 @@
 # Test_MS_segmentation_models_3T_7T_from_Marseille
-Repository to test models of segmentation on 3T and 7T MP2RAGE images from [Marseille lab](https://crmbm.univ-amu.fr/)
+Repository to test MS lesion segmentation models in 3T and 7T MP2RAGE images from [Marseille lab](https://crmbm.univ-amu.fr/)
 
 ## Model to test: [model_seg_ms_mp2rage](https://github.com/ivadomed/model_seg_ms_mp2rage)
 
